@@ -1,0 +1,12 @@
+M:\CSAp2\week2\JustTees\JustTees\bin\Debug\JustTees.exe.config
+M:\CSAp2\week2\JustTees\JustTees\bin\Debug\JustTees.exe
+M:\CSAp2\week2\JustTees\JustTees\bin\Debug\JustTees.pdb
+M:\CSAp2\week2\JustTees\JustTees\bin\Debug\JustTees.xml
+M:\CSAp2\week2\JustTees\JustTees\obj\Debug\JustTees.vbprojAssemblyReference.cache
+M:\CSAp2\week2\JustTees\JustTees\obj\Debug\JustTees.MainForm.resources
+M:\CSAp2\week2\JustTees\JustTees\obj\Debug\JustTees.Resources.resources
+M:\CSAp2\week2\JustTees\JustTees\obj\Debug\JustTees.vbproj.GenerateResource.cache
+M:\CSAp2\week2\JustTees\JustTees\obj\Debug\JustTees.vbproj.CoreCompileInputs.cache
+M:\CSAp2\week2\JustTees\JustTees\obj\Debug\JustTees.exe
+M:\CSAp2\week2\JustTees\JustTees\obj\Debug\JustTees.xml
+M:\CSAp2\week2\JustTees\JustTees\obj\Debug\JustTees.pdb
